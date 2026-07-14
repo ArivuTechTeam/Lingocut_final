@@ -1,0 +1,6 @@
+{
+  "name": "LingoCut Script Transcriber",
+  "description": "An expert multi-lingual video transcriber, script-writer, and colloquial formatter that converts spoken video audio into phonetic, natural street-style dialogues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
